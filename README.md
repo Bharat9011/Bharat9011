@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Sanjay Chaudhari</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat9011&label=Profile%20views&color=0e75b6&style=flat" alt="bharat9011" /> </p>
 
